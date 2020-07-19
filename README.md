@@ -1,15 +1,15 @@
 # Hey there 👋, I'm Vibhu Gupta 👨‍💻
-<a href="https://twitter.com/Vibhu31598482">
-<img align="left" alt="Vibhu Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/vibhu-gupta-10616/">
 <img align="left" alt="Vibhu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/vibhu10616/">
+<img align="left" alt="Vibhu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://t.me/Vibhu10616">
 <img align="left" alt="Vibhu's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/vibhu10616/">
-<img align="left" alt="Vibhu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://twitter.com/Vibhu31598482">
+<img align="left" alt="Vibhu Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br/>
 <br/>
