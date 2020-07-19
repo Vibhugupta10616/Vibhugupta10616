@@ -38,8 +38,3 @@ A little about me, I'm Vibhu Gupta, an Artificial Intelligence and Machine Learn
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=Vibhugupta10616&show_icons=true&hide_border=true)
-
-
