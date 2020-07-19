@@ -1,5 +1,4 @@
 # Vibhu Gupta 👨‍💻
-<br/>
 <a href="https://twitter.com/Vibhu31598482">
 <img align="left" alt="Vibhu Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -13,7 +12,7 @@
 <img align="left" alt="Vibhu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
-
+<br/>
 ## Hey there 👋🏽,  
 
 A little about me, I'm Vibhu Gupta, an Artificial Intelligence and Machine Learning enthusiast, Python Developer and always a keen learner 🚀 from Delhi, India, pursuing B.tech in Computer Science and Engineering. I'm a Campuss Ambassador of Coding Blocks [@Coding_Blocks](https://codingblocks.com/), Fellow and Chapter lead at IncubateIND 👨🏽‍💻 [@IncubateIND](https://incubateind.com/), member of Facebook Developers Circle [@FacbookDevcircle](https://developers.facebook.com/developercircles/) and looking forward to join more communities. Beside's Computer Science, I love playing and listening Classical Music.
