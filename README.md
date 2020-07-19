@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-A little about me, I'm Vibhu Gupta, an Artificial Intelligence and Machine Learning enthusiast, Python Developer and always a keen learner 🚀 from Delhi, India, currently, I'm a Campuss Ambassador of Coding Blocks [@Coding_Blocks](https://codingblocks.com/),Fellow and Chapter lead at IncubateIND 👨🏽‍💻 [@IncubateIND](https://incubateind.com/) and looking forward to join more communities. Beside's Computer Science, I love playing and listening Classical Music.
+A little about me, I'm Vibhu Gupta, an Artificial Intelligence and Machine Learning enthusiast, Python Developer and always a keen learner 🚀 from Delhi, India, currently, I'm a Campuss Ambassador of Coding Blocks [@Coding_Blocks](https://codingblocks.com/), Fellow and Chapter lead at IncubateIND 👨🏽‍💻 [@IncubateIND](https://incubateind.com/) and looking forward to join more communities. Beside's Computer Science, I love playing and listening Classical Music.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
@@ -38,4 +38,8 @@ A little about me, I'm Vibhu Gupta, an Artificial Intelligence and Machine Learn
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Vibhugupta10616&show_icons=true&hide_border=true)
+
 
