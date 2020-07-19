@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hey 👋🏽, I'm Vibhu Gupta 
 
-<!--
-**Vibhugupta10616/Vibhugupta10616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/Vibhu31598482">
+<img align="left" alt="Vibhu Gupta | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vibhu-gupta-10616/">
+<img align="left" alt="Vibhu's LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/Vibhu10616">
+<img align="left" alt="Vibhu's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/vibhu10616/">
+<img align="left" alt="Vibhu's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
+<br />
+
+A little about me, I'm Vibhu Gupta, an Artificial Intelligence and Machine Learning enthusiast, Python Developer and always a keen learner 🚀 from Delhi, India, currently, I'm a Campuss Ambassador of Coding Blocks [@Coding_Blocks](https://codingblocks.com/),Fellow and Chapter lead at IncubateIND 👨🏽‍💻 [@IncubateIND](https://incubateind.com/) and looking forward to join more communities. Beside's Computer Science, I love playing and listening Classical Music.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+- 👨🏽‍💻 I am Currently working on imporving my AI, ML and Deep Learning skills 
+- 🏄‍ Always into learning new things and lookingto contribute to open source as much as possible
+- 💬 Reach me, ask me anything & anytime ,I will be happy to help
+- 📫 How to reach me: I am always active on Linkedin & Gmail, so u can ping me.
+- ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat. Thats all !!!
+
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+!
