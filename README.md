@@ -16,7 +16,7 @@
 
 A little about me, I'm Vibhu Gupta, an Artificial Intelligence and Machine Learning enthusiast, Python Developer and always a keen learner 🚀 from Delhi, India, pursuing B.tech in Computer Science and Engineering. I'm a Campuss Ambassador of Coding Blocks [@Coding_Blocks](https://codingblocks.com/), Fellow and Chapter lead at IncubateIND 👨🏽‍💻 [@IncubateIND](https://incubateind.com/), member of Facebook Developers Circle [@FacbookDevcircle](https://developers.facebook.com/developercircles/) and looking forward to join more communities. Beside's Computer Science, I love playing and listening Classical Music.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="200">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="300">
 
 ## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
