@@ -21,8 +21,8 @@ A little about me, I'm Vibhu Gupta, an Artificial Intelligence and Machine Learn
 ## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 👨🏽‍💻 I am Currently working on imporving my AI, ML and Deep Learning skills 
-- 🏄‍ Always into learning new things and lookingto contribute to open source as much as possible
-- 💬 Reach me, ask me anything & anytime ,I will be happy to help
+- 🏄‍ Always into learning new things and looking to contribute to open source as much as possible
+- 💬 Reach me, ask me anything & anytime, I will be happy to help
 - 📫 How to reach me: I am always active on Linkedin & Gmail, so u can ping me.
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat. Thats all !!!
 
