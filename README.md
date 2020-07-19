@@ -1,6 +1,7 @@
-## Vibhu Gupta 👨‍💻
+# Vibhu Gupta 👨‍💻
 
-### Hey there 👋🏽, I'm Vibhu Gupta 
+
+## Hey there 👋🏽,  
 
 <br/>
 
