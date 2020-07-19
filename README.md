@@ -18,7 +18,7 @@ A little about me, I'm Vibhu Gupta, an Artificial Intelligence and Machine Learn
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 👨🏽‍💻 I am Currently working on imporving my AI, ML and Deep Learning skills 
 - 🏄‍ Always into learning new things and lookingto contribute to open source as much as possible
