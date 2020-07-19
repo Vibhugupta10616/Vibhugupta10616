@@ -1,5 +1,4 @@
 # Vibhu Gupta 👨‍💻
-
 <br/>
 <a href="https://twitter.com/Vibhu31598482">
 <img align="left" alt="Vibhu Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
