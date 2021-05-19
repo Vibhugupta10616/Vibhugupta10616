@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Vibhu Gupta 👨‍💻
 <a href="https://www.linkedin.com/in/vibhu-gupta-10616/">
-<img align="left" alt="Vibhu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Vibhu's LinkdeIN" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xl.png" />
 </a>
 <a href="https://www.instagram.com/vibhu10616/">
 <img align="left" alt="Vibhu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
