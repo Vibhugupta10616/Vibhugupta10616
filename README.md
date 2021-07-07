@@ -16,7 +16,7 @@
 
 🎓A little about me, I'm Vibhu Gupta, an Artificial Intelligence and Machine Learning enthusiast, Python & Tensorflow Developer and always a keen learner from Delhi, India, pursuing B.tech in Computer Science and Engineering 😎. I'm a Campuss Ambassador of Coding Blocks [@Coding Blocks](https://codingblocks.com/) , Machine Learning Evanglist at Univ.ai [@Univ.ai](https://univ.ai/) , Fellow and Chapter lead at IncubateIND  [@IncubateIND](https://incubateind.com/), and looking forward to join more communities. Beside's Computer Science, I love playing and listening Classical Music.
 
-<img align="right" alt="GIF" width=600 height=400 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="GIF" width=500 height=350 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
