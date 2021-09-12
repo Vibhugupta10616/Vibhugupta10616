@@ -3,7 +3,7 @@
 <img align="left" alt="Vibhu's LinkdeIN" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xl.png" />
 </a>
 <a href="https://www.instagram.com/vibhu10616/">
-<img align="left" alt="Vibhu's Instagram" width="22px" src="https://smallimg.pngkey.com/png/small/40-407409_logo-instagram-png-icon-putih.png" />
+<img align="left" alt="Vibhu's Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/white/instagram-xxl.png" />
 </a>
 <a href="https://t.me/Vibhu10616">
 <img align="left" alt="Vibhu's Telegram" width="22px" src="https://www.iconsdb.com/icons/preview/white/telegram-xxl.png" />
