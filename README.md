@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-🎓A little about me, I'm Vibhu Gupta, an Artificial Intelligence and Machine Learning enthusiast, Python & Tensorflow Developer and always a keen learner from Delhi, India, pursuing B.tech in Computer Science and Engineering 😎. I'm a Campuss Ambassador of Coding Blocks [@Coding Blocks](https://codingblocks.com/) , Machine Learning Evanglist at Univ.ai [@Univ.ai](https://univ.ai/) , Fellow and Chapter lead at IncubateIND  [@IncubateIND](https://incubateind.com/), and looking forward to join more communities. Beside's Computer Science, I love playing and listening Classical Music.
+🎓A little about me, I'm Vibhu Gupta, an Artificial Intelligence and Machine Learning enthusiast, Python & Tensorflow Developer and always a keen learner from Delhi, India, pursuing B.tech in Computer Science and Engineering (Spec. in AI & ML) 😎. Currently I'm heading my university's AI Club as a President  Beside's Computer Science, I have interest in Indian Classical Music.
 
 <img align="right" alt="GIF" width=500 height=350 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
@@ -28,10 +28,9 @@
 
 
 **Languages and Tools:**
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
