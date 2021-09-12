@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-🎓A little about me, I'm Vibhu Gupta, an Artificial Intelligence and Machine Learning enthusiast, Python & Tensorflow Developer and always a keen learner from Delhi, India, pursuing B.tech in Computer Science and Engineering (Spec. in AI & ML) 😎. Currently I'm heading my university's AI Club as a President. Beside's Computer Science, I have interest in Indian Classical Music.
+🎓A little about me, I'm an Artificial Intelligence and Machine Learning enthusiast, Python & Tensorflow Developer and always a keen learner from Delhi, India, pursuing B.tech in Computer Science and Engineering (Spec. in AI & ML) 😎. Currently I'm heading my university's AI Club as a President. Beside's Computer Science, I have interest in Indian Classical Music.
 
 <img align="right" alt="GIF" width=500 height=350 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
