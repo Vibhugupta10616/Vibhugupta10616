@@ -6,7 +6,7 @@
 <img align="left" alt="Vibhu's Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/white/instagram-xxl.png" />
 </a>
 <a href="https://t.me/Vibhu10616">
-<img align="left" alt="Vibhu's Telegram" width="22px" src="https://e7.pngegg.com/pngimages/772/115/png-clipart-computer-icons-telegram-logo-angle-white.png" />
+<img align="left" alt="Vibhu's Telegram" width="22px" src="https://www.iconsdb.com/icons/preview/white/telegram-xxl.png" />
 </a>
 <a href="https://twitter.com/Vibhu31598482">
 <img align="left" alt="Vibhu Gupta | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-4-xl.png" />
