@@ -40,7 +40,6 @@
   <a href="https://keras.io/" target="_blank"> <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> </a>
   <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> </a>
   <a href="https://sklearn.org/" target="_blank"> <img src="https://img.shields.io/badge/Scikit Learn-282C34?logo=scikit-learn" alt="ScikitLearn logo" title="Scikit Learn" height="25" /> </a>  
-  
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="25" /> </a> 
   <a href="https://jupyter.org/" target="_blank"> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> </a> 
   <a href = "https://cloud.google.com/" target = "_blank"> <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> </a> 
