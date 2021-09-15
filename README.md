@@ -20,7 +20,7 @@
 
 
 
-<img align="right" alt="GIF" width=500 height=350 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="GIF" width=450 height=320 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -43,9 +43,11 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="25" /> </a> 
   <a href="https://jupyter.org/" target="_blank"> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> </a> 
   <a href = "https://cloud.google.com/" target = "_blank"> <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> </a> 
-  <a href="https://streamlit.io/" target="_blank"> <img src="https://img.shields.io/badge/Streamlit-282C34?logo=streamlit" alt="Streamlit logo" title="Heroku" height="25" /> </a> 
+  <a href="https://streamlit.io/" target="_blank"> <img src="https://img.shields.io/badge/Streamlit-282C34?logo=streamlit" alt="Streamlit logo" title="Heroku" height="25"/> </a> 
   <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=A3AAEB" alt="Heroku logo" title="Heroku" height="25" /> </a> 
+  
 <br/>
+ <br/>
 <a href="https://github.com/Vibhugupta10616">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vibhugupta10616&show_icons=true&theme=dark&line_height=27" alt="Vibhu's github stats"/>
 </a>
