@@ -18,8 +18,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Vibhugupta10616&label=Views&color=blue&style=plastic")
 
-
-
 <img align="right" alt="GIF" width=450 height=320 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -30,7 +28,6 @@
 - 📫 How to reach me: I am always active on Linkedin & Gmail, so u can ping me.
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat. Thats all !!!
 
-<br/>
 
 ### 🛠 Languages & Tools:
 
