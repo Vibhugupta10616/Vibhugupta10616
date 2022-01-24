@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-🎓A little about me, I'm an Artificial Intelligence and Machine Learning enthusiast, Python & Tensorflow Developer and always a keen learner from Delhi, India, pursuing B.tech in Computer Science and Engineering (Spec. in AI & ML). Currently I'm heading my university's AI Club as a President. Beside's Computer Science, I have interest in Indian Classical Music.
+🎓A little about me, I'm an Artificial Intelligence and Machine Learning enthusiast, Python & Tensorflow Developer and always a keen learner from Delhi, India, pursuing B.tech in Computer Science and Engineering (Spec. in AI & ML). Currently I'm a research fellow at Fellowship AI and working as a Junior Machine Learning Engineer at Omdena. Beside's Computer Science, I have interest in Indian Classical Music.
 
 ![](https://komarev.com/ghpvc/?username=Vibhugupta10616&label=Views&color=blue&style=plastic")
 
