@@ -20,7 +20,7 @@
 
 ## Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width=24 height>
 
-<img align="right" alt="GIF" width=370 height=250 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="GIF" width=320 height=200 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 👨🏽‍💻 I am Currently working on imporving my AI, ML, Deep Learning and Computer Vision skills 
 - 🏄‍ Always into learning new things and looking to contribute to open source as much as possible
