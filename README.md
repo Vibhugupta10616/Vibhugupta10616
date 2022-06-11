@@ -18,7 +18,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Vibhugupta10616&label=Views&color=blue&style=plastic")
 
-## Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width=24 height>
+## Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width=24>
 
 <img align="right" alt="GIF" width=320 height=200 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
