@@ -12,7 +12,7 @@
 <img align="left" alt="Vibhu Gupta Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-4-xl.png" />
 </a>
 <a href="https://discord.com/users/708630824412643402">
-<img align="left" alt="Vibhu Gupta Discord" width="26px" src="https://www.iconsdb.com/icons/preview/white/discord-2-xxl.png" />
+<img align="left" alt="Vibhu Gupta Discord" width="28px" src="https://www.iconsdb.com/icons/preview/white/discord-2-xxl.png" />
 </a>
 <br/>
 <br/>
