@@ -44,7 +44,7 @@
   <a href="https://aws.amazon.com/" target="_blank"> <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </a> 
   <a href="https://streamlit.io/" target="_blank"> <img src="https://img.shields.io/badge/Streamlit-282C34?logo=streamlit" alt="Streamlit logo" title="Heroku" height="25"/> </a> 
   <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=A3AAEB" alt="Heroku logo" title="Heroku" height="25" /> </a> 
-  
+ <br/>
 <a href="https://github.com/Vibhugupta10616">
  <br/>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vibhugupta10616&show_icons=true&theme=dark&line_height=27" alt="Vibhu's github stats"/>
