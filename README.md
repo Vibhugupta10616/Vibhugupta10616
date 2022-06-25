@@ -26,14 +26,15 @@ I'm Vibhu Gupta 👨‍💻</h1>
   <a href="https://keras.io/" target="_blank"> <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> </a>
   <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" /> </a>
   <a href="https://sklearn.org/" target="_blank"> <img src=" https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> </a>  
-  <a href = "https://cloud.google.com/" target = "_blank"> <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> </a> 
+  <a href = "https://cloud.google.com/" target = "_blank"> <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" /> </a> 
   <a href="https://aws.amazon.com/" target="_blank"> <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </a> 
   <a href="https://streamlit.io/" target="_blank"> <img src="https://img.shields.io/badge/Streamlit-282C34?logo=streamlit" alt="Streamlit logo" title="Heroku" height="25"/> </a> 
   <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" /></a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white" /> </a> 
   <a href="https://jupyter.org/" target="_blank"> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> </a> 
+  <a href="https://www.anaconda.com/" target="_blank"> <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" /> </a> 
    <a href="https://colab.research.google.com/" target="_blank"> <img alt="Google Colab" src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white" /> </a> 
-   <a href="https://www.anaconda.com/" target="_blank"> <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" /> </a> 
+
     
 
  <br/>
