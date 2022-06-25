@@ -26,7 +26,7 @@
 - 🏄‍ Always into learning new things and looking to contribute to open source as much as possible
 - 💬 Reach me, ask me anything & anytime, I will be happy to help
 - 📫 How to reach me: I am always active on Linkedin & Gmail, so u can ping me.
-- ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat. Thats all !!!
+- ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat.
 
 
 ### 🛠 Languages & Tools:
