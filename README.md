@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-🎓A little about me, I'm an Artificial Intelligence and Machine Learning enthusiast, Python & Tensorflow Developer and always a keen learner from Delhi, India, pursuing B.tech in Computer Science and Engineering (Spec. in AI & ML). Currently I'm a research fellow at Fellowship AI and working as a Junior Machine Learning Engineer at Omdena. Beside's Computer Science, I have interest in Indian Classical Music.
+🎓A little about me, I'm an Artificial Intelligence and Machine Learning enthusiast, Tensorflow Developer from Delhi, India, currently in final year of B.tech in Computer Science and Engineering (Spec. in AI & ML). Currently I'm working as an AI Intern at Tech Mahindra. Beside's Computer Science, I have interest in Indian Classical Music.
 
 ![](https://komarev.com/ghpvc/?username=Vibhugupta10616&label=Views&color=blue&style=plastic")
 
@@ -25,7 +25,7 @@
 - 👨🏽‍💻 I am Currently working on imporving my AI, ML, Deep Learning and Computer Vision skills 
 - 🏄‍ Always into learning new things and looking to contribute to open source as much as possible
 - 💬 Reach me, ask me anything & anytime, I will be happy to help
-- 📫 How to reach me: I am always active on Linkedin & Gmail, so u can ping me.
+- 📫 How to reach me: I am always active on Linkedin & Mail, so u can ping me.
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat.
 
 
