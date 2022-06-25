@@ -3,7 +3,7 @@ I'm Vibhu Gupta 👨‍💻</h1>
 
 ### 🎓 A little about me
 - 👨🏽‍💻 I'm an Artificial Intelligence and Machine Learning enthusiast & a Tensorflow Developer 
-- 🎯 A pre-final year B.Tech CSE student with specialization in AI & ML 
+- 🎯 A final year B.Tech CSE student with specialization in AI & ML 
 - 🎸 Beside's Computer Science, I have interest in Indian Classical Music
 - 💬 Reach me, ask me anything & anytime, I will be happy to help
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat
