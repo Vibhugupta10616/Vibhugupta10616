@@ -9,10 +9,11 @@
 <img align="left" alt="Vibhu's Telegram" width="22px" src="https://www.iconsdb.com/icons/preview/white/telegram-xxl.png" />
 </a>
 <a href="https://twitter.com/Vibhu31598482">
-<img align="left" alt="Vibhu Gupta | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-4-xl.png" />
+<img align="left" alt="Vibhu Gupta Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-4-xl.png" />
 </a>
 <a href="https://discord.com/users/708630824412643402">
-  <img align="left" alt="Vibhu Gupta | Twitter" width="22px" src="https://www.pngkey.com/maxpic/u2q8q8a9w7w7w7e6/" />
+<img align="left" alt="Vibhu Gupta Discord" width="22px" src="https://www.pngkey.com/maxpic/u2q8q8a9w7w7w7e6/" />
+</a>
 <br/>
 <br/>
 
