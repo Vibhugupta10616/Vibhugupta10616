@@ -1,8 +1,17 @@
 <h1 align="center"> 𝐇i 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width=24><br>
 I'm Vibhu Gupta 👨‍💻</h1>
 
-### 🔗 Connect with me at : <a href="https://www.linkedin.com/in/vibhu-gupta-10616/"><img align="left" alt="Vibhu's LinkdeIN" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xl.png" /></a><a href="https://www.instagram.com/vibhu10616/"><img align="left" alt="Vibhu's Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/white/instagram-xxl.png" /></a><a href="https://discord.com/users/708630824412643402"><img align="left" alt="Vibhu Gupta Discord" width="26px" src="https://www.iconsdb.com/icons/preview/white/discord-2-xxl.png" /></a><a href="https://t.me/Vibhu10616">
-<img align="left" alt="Vibhu's Telegram" width="22px" src="https://www.iconsdb.com/icons/preview/white/telegram-xxl.png" /></a><a href="https://twitter.com/Vibhu31598482"><img align="left" alt="Vibhu Gupta Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-4-xl.png" /></a>
+### 🔗 Connect with me at : 
+<a href="https://www.linkedin.com/in/vibhu-gupta-10616/">
+   <img align="left" alt="Vibhu's LinkdeIN" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xl.png" /></a>
+<a href="https://www.instagram.com/vibhu10616/">
+   <img align="left" alt="Vibhu's Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/white/instagram-xxl.png" /></a>
+<a href="https://discord.com/users/708630824412643402">
+   <img align="left" alt="Vibhu Gupta Discord" width="26px" src="https://www.iconsdb.com/icons/preview/white/discord-2-xxl.png" /></a>
+<a href="https://t.me/Vibhu10616">
+   <img align="left" alt="Vibhu's Telegram" width="22px" src="https://www.iconsdb.com/icons/preview/white/telegram-xxl.png" /></a>
+<a href="https://twitter.com/Vibhu31598482">
+   <img align="left" alt="Vibhu Gupta Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-4-xl.png" /></a>
 <br/>
 
 ### 🎓 A little about me:
@@ -38,8 +47,6 @@ I'm Vibhu Gupta 👨‍💻</h1>
   <a href="https://jupyter.org/" target="_blank"> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> </a> 
   <a href="https://www.anaconda.com/" target="_blank"> <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" /> </a> 
    <a href="https://colab.research.google.com/" target="_blank"> <img alt="Google Colab" src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white" /> </a> 
-
-    
 
  <br/>
 <a href="https://github.com/Vibhugupta10616">
