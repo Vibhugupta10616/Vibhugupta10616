@@ -1,17 +1,8 @@
 <h1 align="center"> 𝐇i 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width=24><br>
 I'm Vibhu Gupta 👨‍💻</h1>
 
-### 🔗 Connect with me at :
-<a href="https://www.linkedin.com/in/vibhu-gupta-10616/">
-<img align="left" alt="Vibhu's LinkdeIN" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xl.png" /></a>
-<a href="https://www.instagram.com/vibhu10616/">
-<img align="left" alt="Vibhu's Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/white/instagram-xxl.png" /></a>
-<a href="https://discord.com/users/708630824412643402">
-<img align="left" alt="Vibhu Gupta Discord" width="26px" src="https://www.iconsdb.com/icons/preview/white/discord-2-xxl.png" /></a>
-<a href="https://t.me/Vibhu10616">
-<img align="left" alt="Vibhu's Telegram" width="22px" src="https://www.iconsdb.com/icons/preview/white/telegram-xxl.png" /></a>
-<a href="https://twitter.com/Vibhu31598482">
-<img align="left" alt="Vibhu Gupta Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-4-xl.png" /></a>
+### 🔗 Connect with me at : <a href="https://www.linkedin.com/in/vibhu-gupta-10616/"><img align="left" alt="Vibhu's LinkdeIN" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xl.png" /></a><a href="https://www.instagram.com/vibhu10616/"><img align="left" alt="Vibhu's Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/white/instagram-xxl.png" /></a><a href="https://discord.com/users/708630824412643402"><img align="left" alt="Vibhu Gupta Discord" width="26px" src="https://www.iconsdb.com/icons/preview/white/discord-2-xxl.png" /></a><a href="https://t.me/Vibhu10616">
+<img align="left" alt="Vibhu's Telegram" width="22px" src="https://www.iconsdb.com/icons/preview/white/telegram-xxl.png" /></a><a href="https://twitter.com/Vibhu31598482"><img align="left" alt="Vibhu Gupta Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-4-xl.png" /></a>
 <br/>
 
 ### 🎓 A little about me:
