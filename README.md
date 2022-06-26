@@ -21,7 +21,7 @@
 - 💬 Reach me, ask me anything & anytime, I will be happy to help
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat
 
-<img align="right" alt="GIF" width=360 height=220 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="GIF" width=340 height=200 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 📈 I have worked as:
    1. Artificial Intelligence intern @Techh Mahindra
