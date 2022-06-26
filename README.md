@@ -17,7 +17,6 @@ I'm Vibhu Gupta 👨‍💻</h1>
 <img align="left" alt="Vibhu Gupta Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-4-xl.png" />
 </a>
 <br/>
-<br/>
 
 ### 🎓 A little about me
 - 👨🏽‍💻 I'm an Artificial Intelligence and Machine Learning enthusiast & a Tensorflow Developer 
