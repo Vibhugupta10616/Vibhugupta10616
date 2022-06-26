@@ -1,6 +1,7 @@
 <h1 align="center"> 𝐇i 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width=24><br>
 I'm Vibhu Gupta 👨‍💻</h1>
 
+### Connect with me at :
 <a href="https://www.linkedin.com/in/vibhu-gupta-10616/">
 <img align="left" alt="Vibhu's LinkdeIN" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xl.png" />
 </a>
