@@ -3,7 +3,8 @@ I'm Vibhu Gupta 👨‍💻</h1>
 
 ### 🔗 Connect with me at: 
 &emsp;
-&emsp;
+&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/vibhu-gupta-10616/">
    <img alt="Vibhu's LinkdeIN" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xl.png" /></a>
 &nbsp;
