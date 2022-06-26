@@ -16,7 +16,7 @@ I'm Vibhu Gupta 👨‍💻</h1>
    <img alt="Vibhu's Telegram" width="22px" src="https://www.iconsdb.com/icons/preview/white/telegram-xxl.png" /></a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/Vibhu31598482">
-   <img align="left" alt="Vibhu Gupta Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-4-xl.png" /></a></h3>
+   <img align="left" alt="Vibhu Gupta Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-4-xl.png" /></a>
 <br/>
 
 ### 🎓 A little about me:
