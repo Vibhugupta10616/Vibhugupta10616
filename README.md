@@ -14,16 +14,11 @@ I'm Vibhu Gupta 👨‍💻</h1>
 <a href="https://discord.com/users/708630824412643402">
    <img alt="Vibhu Gupta Discord" width="26px" src="https://www.iconsdb.com/icons/preview/white/discord-2-xxl.png" /></a>
 &nbsp;&nbsp;
-<a href="https://t.me/Vibhu10616">
-   <img alt="Vibhu's Telegram" width="22px" src="https://www.iconsdb.com/icons/preview/white/telegram-xxl.png" /></a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/Vibhu31598482">
-   <img alt="Vibhu Gupta Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-4-xl.png" /></a>
-<br/>
+
 
 ### 🎓 A little about me:
 - 👨🏽‍💻 I'm an Artificial Intelligence and Machine Learning enthusiast & a Tensorflow Developer 
-- 🎯 A final year B.Tech CSE student with specialization in AI & ML 
+- 🎯 A freshamn student pursuing M.Sc in Data Science @ FAU <a href="(https://www.fau.de/)" target="_blank"> with major in AI & ML 
 - 🎸 Beside's Computer Science, I have interest in Indian Classical Music
 - 💬 Reach me, ask me anything & anytime, I will be happy to help
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat
@@ -31,11 +26,11 @@ I'm Vibhu Gupta 👨‍💻</h1>
 <img align="right" alt="GIF" width=340 height=200 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 📈 I have worked as:
-   1. Artificial Intelligence intern @Techh Mahindra
-   2. Jr. Machine Learning Engineer @Omdena
+   1. Associate Technical Engineer @Kyndryl
+   2. Artificial Intelligence intern @Techh Mahindra
    3. Data Science Research Fellow @Fellowship.ai
    4. Machine Learning Intern @Applex.in
-   5. Fellow & Chapter Lead at IncubateIND
+
 
 ### 🛠 Languages & Tools:
 
