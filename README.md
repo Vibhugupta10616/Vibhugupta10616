@@ -18,8 +18,8 @@ I'm Vibhu Gupta 👨‍💻</h1>
 
 ### 🎓 A little about me:
 - 👨🏽‍💻 I'm an Artificial Intelligence and Machine Learning enthusiast & a Tensorflow Developer 
-- 🎯 A freshamn student pursuing M.Sc in Data Science @ FAU <a href="(https://www.fau.de/)" target="_blank"> with major in AI & ML 
-- 🎸 Beside's Computer Science, I have interest in Indian Classical Music
+- 🎯 A freshman student pursuing M.Sc in Data Science @ FAU <a href="(https://www.fau.de/)" target="_blank"> with major in AI & ML 
+- 🎸 Besides Computer Science, I have an interest in Indian Classical Music
 - 💬 Reach me, ask me anything & anytime, I will be happy to help
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat
 
