@@ -18,7 +18,7 @@ I'm Vibhu Gupta 👨‍💻</h1>
 
 ### 🎓 A little about me:
 - 👨🏽‍💻 I'm an Artificial Intelligence and Machine Learning enthusiast & a Tensorflow Developer 
-- 🎯 A freshman student pursuing M.Sc in Data Science @ FAU <a href="(https://www.fau.de/)" target="_blank"> with major in AI & ML 
+- 🎯 A freshman student pursuing M.Sc in Data Science @ FAU <a href="(https://www.fau.de/)" target="_blank">
 - 🎸 Besides Computer Science, I have an interest in Indian Classical Music
 - 💬 Reach me, ask me anything & anytime, I will be happy to help
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat
@@ -26,10 +26,9 @@ I'm Vibhu Gupta 👨‍💻</h1>
 <img align="right" alt="GIF" width=340 height=200 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 📈 I have worked as:
-   1. Associate Technical Engineer @Kyndryl
-   2. Artificial Intelligence intern @Techh Mahindra
-   3. Data Science Research Fellow @Fellowship.ai
-   4. Machine Learning Intern @Applex.in
+   1. Working Student - AI Development @Siemens Energy
+   2. Associate Technical Engineer @Kyndryl
+   3. Artificial Intelligence intern @Techh Mahindra
 
 
 ### 🛠 Languages & Tools:
