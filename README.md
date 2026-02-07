@@ -6,7 +6,7 @@ I'm Vibhu Gupta 👨‍💻</h1>
 &nbsp;
 &nbsp;
 <a href="https://www.linkedin.com/in/vibhu-gupta-10616/">
-   <img alt="Vibhu's LinkdeIN" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xl.png" /></a>
+   <img alt="Vibhu's LinkdeIN" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xl.p" /></a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/vibhu10616/">
    <img alt="Vibhu's Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/white/instagram-xxl.png" /></a>
